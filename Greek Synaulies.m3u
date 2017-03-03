@@ -86,6 +86,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=E7AtHGU9WHo
 #EXTINF:1,Ν.ΟΙΚΟΝΟΜΟΠΟΥΛΟΣ LIVE
 plugin://plugin.video.youtube/?action=play_video&videoid=jw43LddSVyI
 
+#EXTINF:1,ΝΟΤΗΣ ΣΦΑΚΙΑΝΑΚΗΣ LIVE
+plugin://plugin.video.youtube/?action=play_video&videoid=RuAMR5FRSe0
+
 #EXTINF:1,ΠΑΝΤΕΛΙΔΗΣ LIVE
 plugin://plugin.video.youtube/?action=play_video&videoid=ShoPm4AIEFU
 
