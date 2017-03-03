@@ -107,6 +107,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=lVwpn7tvHpY
 #EXTINF:1,Γ.ΠΛΟΥΤΑΡΧΟΣ LIVE
 plugin://plugin.video.youtube/?action=play_video&videoid=MlKKzqWN3T8
 
+#EXTINF:1,Σ.ΓΟΝΙΔΗΣ LIVE
+plugin://plugin.video.youtube/?action=play_video&videoid=NGooLYz1XUo
+
 #EXTINF:1,Β.ΚΑΡΡΑΣ LIVE
 plugin://plugin.video.youtube/?action=play_video&videoid=tOaJVsrETQY
 
@@ -115,3 +118,6 @@ plugin://plugin.video.youtube/?action=play_video&videoid=aImRiwVU4gA
 
 #EXTINF:1,Δ.ΒΑΝΔΗ LIVE
 plugin://plugin.video.youtube/?action=play_video&videoid=auT6lniU8-g
+
+#EXTINF:1,ΝΙΝΟ LIVE
+plugin://plugin.video.youtube/?action=play_video&videoid=spj-ihwSc7c
