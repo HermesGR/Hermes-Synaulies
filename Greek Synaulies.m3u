@@ -98,6 +98,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=RuAMR5FRSe0
 #EXTINF:1,ΠΑΝΤΕΛΙΔΗΣ LIVE
 plugin://plugin.video.youtube/?action=play_video&videoid=ShoPm4AIEFU
 
+#EXTINF:1,Γ.ΣΑΜΠΑΝΗΣ LIVE
+plugin://plugin.video.youtube/?action=play_video&videoid=cH5bB1qSIWU
+
 #EXTINF:1,Κ.ΑΡΓΥΡΟΣ LIVE
 plugin://plugin.video.youtube/?action=play_video&videoid=lVwpn7tvHpY
 
