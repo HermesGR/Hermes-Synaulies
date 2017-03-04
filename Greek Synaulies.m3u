@@ -41,7 +41,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=q8eRNH-6Z9g
 #EXTINF:1,ΓΛΥΚΕΡΙΑ LIVE
 plugin://plugin.video.youtube/?action=play_video&videoid=qlD7n3LZa2c
 
-#EXTINF:1,ΕΛΕΩΝΟΡΑ ΖΟΥΓΑΝΕΛΗ LIVE
+#EXTINF:1,Ε.ΖΟΥΓΑΝΕΛΗ LIVE
 plugin://plugin.video.youtube/?action=play_video&videoid=H5s3y817j_0
 
 #EXTINF:1,Ν.ΠΑΠΑΖΟΓΛΟΥ LIVE
@@ -92,7 +92,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=vtSeGrfi3vU
 #EXTINF:1,ΠΑΟΛΑ LIVE
 plugin://plugin.video.youtube/?action=play_video&videoid=Vj006hJ--b0
 
-#EXTINF:1,ΝΟΤΗΣ ΣΦΑΚΙΑΝΑΚΗΣ LIVE
+#EXTINF:1,Ν.ΣΦΑΚΙΑΝΑΚΗΣ LIVE
 plugin://plugin.video.youtube/?action=play_video&videoid=RuAMR5FRSe0
 
 #EXTINF:1,ΠΑΝΤΕΛΙΔΗΣ LIVE
