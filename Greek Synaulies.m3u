@@ -29,6 +29,18 @@ plugin://plugin.video.youtube/?action=play_video&videoid=xGaQRXGogwI
 #EXTINF:1,ΚΟΤΣΙΡΑΣ/ΜΑΧΑΙΡΙΤΣΑΣ LIVE
 plugin://plugin.video.youtube/?action=play_video&videoid=CYaWSAqTWD0
 
+#EXTINF:1,Χ.ΘΗΒΑΙΟΣ LIVE
+plugin://plugin.video.youtube/?action=play_video&videoid=BmyKSfIxDy0
+
+#EXTINF:1,Μ.ΠΑΣΧΑΛΙΔΗΣ LIVE
+plugin://plugin.video.youtube/?action=play_video&videoid=KKjzx-0lIKw
+
+#EXTINF:1,Δ.ΜΠΑΣΗΣ - Γ.ΑΝΔΡΕΑΤΟΣ LIVE
+plugin://plugin.video.youtube/?action=play_video&videoid=b7W4xtPWKiQ
+
+#EXTINF:1,Κ.ΜΑΚΕΔΟΝΑΣ - LIVE
+plugin://plugin.video.youtube/?action=play_video&videoid=HbsZAyet34Y
+
 #EXTINF:1,Α.ΙΩΑΝΝΙΔΗΣ LIVE
 plugin://plugin.video.youtube/?action=play_video&videoid=ky0-63ZV3BY
 
@@ -85,6 +97,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=E7AtHGU9WHo
 
 #EXTINF:1,Ν.ΟΙΚΟΝΟΜΟΠΟΥΛΟΣ LIVE
 plugin://plugin.video.youtube/?action=play_video&videoid=jw43LddSVyI
+
+#EXTINF:1,ΠΕΓΚΥ ΖΗΝΑ - LIVE
+plugin://plugin.video.youtube/?action=play_video&videoid=aaSZ7jkMt7U
 
 #EXTINF:1,Γ.ΜΑΖΩΝΑΚΗΣ LIVE
 plugin://plugin.video.youtube/?action=play_video&videoid=vtSeGrfi3vU
