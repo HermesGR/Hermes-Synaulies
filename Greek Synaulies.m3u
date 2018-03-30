@@ -1,6 +1,33 @@
 
 #EXTM3U
 
+#EXTINF:1,ΒΑΣΙΛΗΣ ΠΑΠΑΚΩΝΣΤΑΝΤΙΝΟΥ LIVE
+plugin://plugin.video.youtube/?action=play_video&videoid=cgY4COPjImU
+
+#EXTINF:1,ΑΝΝΑ ΒΙΣΣΗ LIVE
+plugin://plugin.video.youtube/?action=play_video&videoid=xfV7bo13PuY
+
+#EXTINF:1,ONIRAMA LIVE
+plugin://plugin.video.youtube/?action=play_video&videoid=eXAsTXkoPtQ
+
+#EXTINF:1,ΜΙΧΑΛΗΣ ΧΑΤΖΗΓΙΑΝΝΗΣ LIVE
+plugin://plugin.video.youtube/?action=play_video&videoid=Lo_8vcIMJFk
+
+#EXTINF:1,ΜΙΛΤΟΣ ΠΑΣΧΑΛΙΔΗΣ LIVE
+plugin://plugin.video.youtube/?action=play_video&videoid=7u1OGP-1KOQ
+
+#EXTINF:1,ΝΑΤΑΣΣΑ ΜΠΟΦΙΛΙΟΥ LIVE
+plugin://plugin.video.youtube/?action=play_video&videoid=IApE45FB78U
+
+#EXTINF:1,ΓΙΩΡΓΟΣ ΝΤΑΛΑΡΑΣ LIVE
+plugin://plugin.video.youtube/?action=play_video&videoid=cXZQ98ZwkSw
+
+#EXTINF:1,ΑΛΚΙΝΟΟΣ ΙΩΑΝΝΙΔΗΣ LIVE
+plugin://plugin.video.youtube/?action=play_video&videoid=kj12CnOBm1k
+
+#EXTINF:1,ΓΙΑΝΝΗΣ ΧΑΡΟΥΛΗΣ LIVE
+plugin://plugin.video.youtube/?action=play_video&videoid=VQnF7fCX1eE
+
 #EXTINF:1,Δ. ΣΑΒΒΟΠΟΥΛΟΣ ''ΟΛΟΙ ΜΑΖΙ ΜΠΟΡΟΥΜΕ'' Live 12.07.2017 ΣΚΑΪ HD
 plugin://plugin.video.youtube/?action=play_video&videoid=V_tExMCm6Qo
 
@@ -13,6 +40,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=YrPHmK8YVSU
 #EXTINF:1,ΤΕΡΖΗΣ LIVE
 plugin://plugin.video.youtube/?action=play_video&videoid=ig_Tsuz57CQ
 
+#EXTINF:1,ΒΑΣΙΛΗΣ ΚΑΡΡΑΣ LIVE
+plugin://plugin.video.youtube/?action=play_video&videoid=Hl5jVV0noDY
+
 #EXTINF:1,ΠΑΡΙΟΣ LIVE
 plugin://plugin.video.youtube/?action=play_video&videoid=Q5LquyI4aB4
 
@@ -21,6 +51,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=47chfdXVnO8
 
 #EXTINF:1,ΜΑΡΙΝΕΛΛΑ LIVE
 plugin://plugin.video.youtube/?action=play_video&videoid=X3QKFFBTaqI
+
+#EXTINF:1,ΤΟΛΗΣ ΒΟΣΚΟΠΟΥΛΟΣ LIVE
+plugin://plugin.video.youtube/?action=play_video&videoid=7-KsFz07COw
 
 #EXTINF:1,Ε.ΑΡΒΑΝΙΤΑΚΗ LIVE
 plugin://plugin.video.youtube/?action=play_video&videoid=VWckJZcycM4
